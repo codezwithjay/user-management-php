@@ -88,9 +88,8 @@ salary	DECIMAL	Employee salary
 department	VARCHAR	Department name
 📸 Screenshot
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/541a9624-626c-4bf7-b3b2-683f40ec3ac7" />
 
-Example:
-📌 User Management System (PHP + MySQL + Bootstrap)
 
 A simple and clean Employee/User Management System built using PHP, MySQL, and Bootstrap, designed to perform full CRUD operations (Create, Read, Update, Delete).
 
